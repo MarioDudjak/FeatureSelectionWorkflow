@@ -1,0 +1,518 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AnalysisUIOptions">
+    <option name="SCOPE_TYPE" value="3" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="5ff03cd6-0957-4cee-b5d4-9d81d0ac1751" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="JupyterTrust" id="03bb524c-2ac9-4b41-b132-5cab6167745e" />
+  <component name="ProjectId" id="1iAxhgbmVGd4fbejbGhksemeoIX" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/features/optimisers" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\MarioPC\Dropbox\Doktorski studij\Disertacija\FS-Doprinos\Experiment\src\features\optimisers" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\MDudjak\Dropbox\FS study\Experiment\reports\scripts" />
+      <recent name="C:\Users\MDudjak\Dropbox\FS study\Experiment\reports\scripts\fs_study" />
+      <recent name="C:\Users\MDudjak\Dropbox\FS study\Experiment\reports\scripts\empirical_classifier_study" />
+      <recent name="C:\Users\MarioPC\PycharmProjects\DataScienceWorkflow\src\models" />
+      <recent name="C:\Users\MarioPC\PycharmProjects\DataScienceWorkflow\src\models\problems\classification" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.archive_combinations">
+    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
+      <module name="DataScienceWorkflow" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="archive_combinations" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="DataScienceWorkflow" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/reports/scripts" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/reports/scripts/archive_combinations.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="median_search_all_metrics" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="DataScienceWorkflow" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/reports/scripts" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/reports/scripts/median_search_all_metrics.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="median_search_fitness_comparison_all_optimisers_per_classifier_and_dataset" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="DataScienceWorkflow" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/reports/visualization" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/reports/visualization/median_search_fitness_comparison_all_optimisers_per_classifier_and_dataset.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="output_quality_comparison_test_val" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="DataScienceWorkflow" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/reports/scripts" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/reports/scripts/output_quality_comparison_test_val.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="test_archive" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="DataScienceWorkflow" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/reports/scripts" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/reports/scripts/test_archive.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.archive_combinations" />
+        <item itemvalue="Python.median_search_fitness_comparison_all_optimisers_per_classifier_and_dataset" />
+        <item itemvalue="Python.median_search_all_metrics" />
+        <item itemvalue="Python.output_quality_comparison_test_val" />
+        <item itemvalue="Python.test_archive" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5ff03cd6-0957-4cee-b5d4-9d81d0ac1751" name="Default Changelist" comment="" />
+      <created>1588233011074</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1588233011074</updated>
+      <workItem from="1603090816280" duration="3004000" />
+      <workItem from="1603094040030" duration="12892000" />
+      <workItem from="1603184294270" duration="10308000" />
+      <workItem from="1603269877679" duration="4215000" />
+      <workItem from="1606738544151" duration="4132000" />
+      <workItem from="1610788462131" duration="22000" />
+      <workItem from="1610788498354" duration="27000" />
+      <workItem from="1612521289073" duration="771000" />
+      <workItem from="1612778468043" duration="6043000" />
+      <workItem from="1612856242409" duration="9994000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="449" y="168" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1611649976589">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="449" y="168" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/-1920.0.1920.1080/0.0.1536.864@0.0.1536.864" timestamp="1611649976589" />
+    <state x="664" y="185" width="745" height="493" key="#xdebugger.XInspectDialog" timestamp="1610708656516">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="664" y="185" width="745" height="493" key="#xdebugger.XInspectDialog/0.0.1536.864@0.0.1536.864" timestamp="1610708656516" />
+    <state x="740" y="275" key="FileChooserDialogImpl" timestamp="1610788512543">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="740" y="275" key="FileChooserDialogImpl/0.0.1920.1040/3840.0.1920.1080/1920.0.1920.1080@0.0.1920.1040" timestamp="1610788512543" />
+    <state width="1877" height="183" key="GridCell.Tab.0.bottom" timestamp="1612876186846">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="183" key="GridCell.Tab.0.bottom/-1280.0.1280.984/0.0.1920.1040@0.0.1920.1040" timestamp="1612876186846" />
+    <state width="1899" height="325" key="GridCell.Tab.0.bottom/-1920.0.1920.1080/0.0.1536.864@-1920.0.1920.1080" timestamp="1612361597482" />
+    <state width="1515" height="205" key="GridCell.Tab.0.bottom/-1920.0.1920.1080/0.0.1536.864@0.0.1536.864" timestamp="1611913177638" />
+    <state width="1025" height="231" key="GridCell.Tab.0.bottom/0.0.1024.728@0.0.1024.728" timestamp="1611135451182" />
+    <state width="1899" height="272" key="GridCell.Tab.0.bottom/0.0.1536.864/-1920.0.1920.1080@-1920.0.1920.1080" timestamp="1611842918352" />
+    <state width="2539" height="382" key="GridCell.Tab.0.bottom/0.0.1536.864/-2560.0.2560.1440@-2560.0.2560.1440" timestamp="1611851970752" />
+    <state width="1515" height="180" key="GridCell.Tab.0.bottom/0.0.1536.864/-2560.0.2560.1440@0.0.1536.864" timestamp="1610718188853" />
+    <state width="1515" height="454" key="GridCell.Tab.0.bottom/0.0.1536.864@0.0.1536.864" timestamp="1612459795275" />
+    <state width="1877" height="183" key="GridCell.Tab.0.center" timestamp="1612876186846">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="183" key="GridCell.Tab.0.center/-1280.0.1280.984/0.0.1920.1040@0.0.1920.1040" timestamp="1612876186846" />
+    <state width="1899" height="325" key="GridCell.Tab.0.center/-1920.0.1920.1080/0.0.1536.864@-1920.0.1920.1080" timestamp="1612361597481" />
+    <state width="1515" height="205" key="GridCell.Tab.0.center/-1920.0.1920.1080/0.0.1536.864@0.0.1536.864" timestamp="1611913177638" />
+    <state width="1025" height="231" key="GridCell.Tab.0.center/0.0.1024.728@0.0.1024.728" timestamp="1611135451182" />
+    <state width="1899" height="272" key="GridCell.Tab.0.center/0.0.1536.864/-1920.0.1920.1080@-1920.0.1920.1080" timestamp="1611842918352" />
+    <state width="2539" height="382" key="GridCell.Tab.0.center/0.0.1536.864/-2560.0.2560.1440@-2560.0.2560.1440" timestamp="1611851970752" />
+    <state width="1515" height="180" key="GridCell.Tab.0.center/0.0.1536.864/-2560.0.2560.1440@0.0.1536.864" timestamp="1610718188853" />
+    <state width="1515" height="454" key="GridCell.Tab.0.center/0.0.1536.864@0.0.1536.864" timestamp="1612459795274" />
+    <state width="1877" height="183" key="GridCell.Tab.0.left" timestamp="1612876186846">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="183" key="GridCell.Tab.0.left/-1280.0.1280.984/0.0.1920.1040@0.0.1920.1040" timestamp="1612876186846" />
+    <state width="1899" height="325" key="GridCell.Tab.0.left/-1920.0.1920.1080/0.0.1536.864@-1920.0.1920.1080" timestamp="1612361597481" />
+    <state width="1515" height="205" key="GridCell.Tab.0.left/-1920.0.1920.1080/0.0.1536.864@0.0.1536.864" timestamp="1611913177638" />
+    <state width="1025" height="231" key="GridCell.Tab.0.left/0.0.1024.728@0.0.1024.728" timestamp="1611135451182" />
+    <state width="1899" height="272" key="GridCell.Tab.0.left/0.0.1536.864/-1920.0.1920.1080@-1920.0.1920.1080" timestamp="1611842918352" />
+    <state width="2539" height="382" key="GridCell.Tab.0.left/0.0.1536.864/-2560.0.2560.1440@-2560.0.2560.1440" timestamp="1611851970752" />
+    <state width="1515" height="180" key="GridCell.Tab.0.left/0.0.1536.864/-2560.0.2560.1440@0.0.1536.864" timestamp="1610718188853" />
+    <state width="1515" height="454" key="GridCell.Tab.0.left/0.0.1536.864@0.0.1536.864" timestamp="1612459795274" />
+    <state width="1877" height="183" key="GridCell.Tab.0.right" timestamp="1612876186846">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="183" key="GridCell.Tab.0.right/-1280.0.1280.984/0.0.1920.1040@0.0.1920.1040" timestamp="1612876186846" />
+    <state width="1899" height="325" key="GridCell.Tab.0.right/-1920.0.1920.1080/0.0.1536.864@-1920.0.1920.1080" timestamp="1612361597481" />
+    <state width="1515" height="205" key="GridCell.Tab.0.right/-1920.0.1920.1080/0.0.1536.864@0.0.1536.864" timestamp="1611913177638" />
+    <state width="1025" height="231" key="GridCell.Tab.0.right/0.0.1024.728@0.0.1024.728" timestamp="1611135451182" />
+    <state width="1899" height="272" key="GridCell.Tab.0.right/0.0.1536.864/-1920.0.1920.1080@-1920.0.1920.1080" timestamp="1611842918352" />
+    <state width="2539" height="382" key="GridCell.Tab.0.right/0.0.1536.864/-2560.0.2560.1440@-2560.0.2560.1440" timestamp="1611851970752" />
+    <state width="1515" height="180" key="GridCell.Tab.0.right/0.0.1536.864/-2560.0.2560.1440@0.0.1536.864" timestamp="1610718188853" />
+    <state width="1515" height="454" key="GridCell.Tab.0.right/0.0.1536.864@0.0.1536.864" timestamp="1612459795274" />
+    <state width="1877" height="728" key="GridCell.Tab.1.bottom" timestamp="1612876197611">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="728" key="GridCell.Tab.1.bottom/-1280.0.1280.984/0.0.1920.1040@0.0.1920.1040" timestamp="1612876197611" />
+    <state width="1899" height="325" key="GridCell.Tab.1.bottom/-1920.0.1920.1080/0.0.1536.864@-1920.0.1920.1080" timestamp="1612361597482" />
+    <state width="1515" height="205" key="GridCell.Tab.1.bottom/-1920.0.1920.1080/0.0.1536.864@0.0.1536.864" timestamp="1611913180948" />
+    <state width="1025" height="231" key="GridCell.Tab.1.bottom/0.0.1024.728@0.0.1024.728" timestamp="1611135451182" />
+    <state width="1899" height="272" key="GridCell.Tab.1.bottom/0.0.1536.864/-1920.0.1920.1080@-1920.0.1920.1080" timestamp="1611842918352" />
+    <state width="2539" height="382" key="GridCell.Tab.1.bottom/0.0.1536.864/-2560.0.2560.1440@-2560.0.2560.1440" timestamp="1611851970752" />
+    <state width="1515" height="180" key="GridCell.Tab.1.bottom/0.0.1536.864/-2560.0.2560.1440@0.0.1536.864" timestamp="1610718192543" />
+    <state width="1515" height="454" key="GridCell.Tab.1.bottom/0.0.1536.864@0.0.1536.864" timestamp="1612459795275" />
+    <state width="1877" height="728" key="GridCell.Tab.1.center" timestamp="1612876197611">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="728" key="GridCell.Tab.1.center/-1280.0.1280.984/0.0.1920.1040@0.0.1920.1040" timestamp="1612876197611" />
+    <state width="1899" height="325" key="GridCell.Tab.1.center/-1920.0.1920.1080/0.0.1536.864@-1920.0.1920.1080" timestamp="1612361597482" />
+    <state width="1515" height="205" key="GridCell.Tab.1.center/-1920.0.1920.1080/0.0.1536.864@0.0.1536.864" timestamp="1611913180948" />
+    <state width="1025" height="231" key="GridCell.Tab.1.center/0.0.1024.728@0.0.1024.728" timestamp="1611135451182" />
+    <state width="1899" height="272" key="GridCell.Tab.1.center/0.0.1536.864/-1920.0.1920.1080@-1920.0.1920.1080" timestamp="1611842918352" />
+    <state width="2539" height="382" key="GridCell.Tab.1.center/0.0.1536.864/-2560.0.2560.1440@-2560.0.2560.1440" timestamp="1611851970752" />
+    <state width="1515" height="180" key="GridCell.Tab.1.center/0.0.1536.864/-2560.0.2560.1440@0.0.1536.864" timestamp="1610718192543" />
+    <state width="1515" height="454" key="GridCell.Tab.1.center/0.0.1536.864@0.0.1536.864" timestamp="1612459795275" />
+    <state width="1877" height="728" key="GridCell.Tab.1.left" timestamp="1612876197611">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="728" key="GridCell.Tab.1.left/-1280.0.1280.984/0.0.1920.1040@0.0.1920.1040" timestamp="1612876197611" />
+    <state width="1899" height="325" key="GridCell.Tab.1.left/-1920.0.1920.1080/0.0.1536.864@-1920.0.1920.1080" timestamp="1612361597482" />
+    <state width="1515" height="205" key="GridCell.Tab.1.left/-1920.0.1920.1080/0.0.1536.864@0.0.1536.864" timestamp="1611913180948" />
+    <state width="1025" height="231" key="GridCell.Tab.1.left/0.0.1024.728@0.0.1024.728" timestamp="1611135451182" />
+    <state width="1899" height="272" key="GridCell.Tab.1.left/0.0.1536.864/-1920.0.1920.1080@-1920.0.1920.1080" timestamp="1611842918352" />
+    <state width="2539" height="382" key="GridCell.Tab.1.left/0.0.1536.864/-2560.0.2560.1440@-2560.0.2560.1440" timestamp="1611851970752" />
+    <state width="1515" height="180" key="GridCell.Tab.1.left/0.0.1536.864/-2560.0.2560.1440@0.0.1536.864" timestamp="1610718192543" />
+    <state width="1515" height="454" key="GridCell.Tab.1.left/0.0.1536.864@0.0.1536.864" timestamp="1612459795275" />
+    <state width="1877" height="728" key="GridCell.Tab.1.right" timestamp="1612876197611">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="728" key="GridCell.Tab.1.right/-1280.0.1280.984/0.0.1920.1040@0.0.1920.1040" timestamp="1612876197611" />
+    <state width="1899" height="325" key="GridCell.Tab.1.right/-1920.0.1920.1080/0.0.1536.864@-1920.0.1920.1080" timestamp="1612361597482" />
+    <state width="1515" height="205" key="GridCell.Tab.1.right/-1920.0.1920.1080/0.0.1536.864@0.0.1536.864" timestamp="1611913180948" />
+    <state width="1025" height="231" key="GridCell.Tab.1.right/0.0.1024.728@0.0.1024.728" timestamp="1611135451182" />
+    <state width="1899" height="272" key="GridCell.Tab.1.right/0.0.1536.864/-1920.0.1920.1080@-1920.0.1920.1080" timestamp="1611842918352" />
+    <state width="2539" height="382" key="GridCell.Tab.1.right/0.0.1536.864/-2560.0.2560.1440@-2560.0.2560.1440" timestamp="1611851970752" />
+    <state width="1515" height="180" key="GridCell.Tab.1.right/0.0.1536.864/-2560.0.2560.1440@0.0.1536.864" timestamp="1610718192543" />
+    <state width="1515" height="454" key="GridCell.Tab.1.right/0.0.1536.864@0.0.1536.864" timestamp="1612459795275" />
+    <state x="26" y="13" key="SettingsEditor" timestamp="1611093933533">
+      <screen x="0" y="0" width="1024" height="728" />
+    </state>
+    <state x="26" y="13" key="SettingsEditor/0.0.1024.728@0.0.1024.728" timestamp="1611093933533" />
+    <state x="623" y="225" width="840" height="679" key="search.everywhere.popup" timestamp="1612874150350">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="623" y="225" width="840" height="679" key="search.everywhere.popup/-1280.0.1280.984/0.0.1920.1040@0.0.1920.1040" timestamp="1612874150350" />
+    <state x="-1297" y="234" width="840" height="705" key="search.everywhere.popup/-1920.0.1920.1080/0.0.1536.864@-1920.0.1920.1080" timestamp="1612360964744" />
+    <state x="498" y="187" width="672" height="564" key="search.everywhere.popup/0.0.1536.864@0.0.1536.864" timestamp="1611081375114" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/src/models/classification/classifiers/perceptron.py</url>
+          <line>61</line>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/reports/scripts/empirical_classifier_study/tuning_results_ranking.py</url>
+          <line>15</line>
+          <option name="timeStamp" value="32" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/reports/scripts/average_test_results.py</url>
+          <line>20</line>
+          <option name="timeStamp" value="43" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/src/features/selection/optimisers/geneticAlgorithm.py</url>
+          <line>118</line>
+          <option name="timeStamp" value="56" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/reports/visualization/median_search_classifier_difference_all_datasets.py</url>
+          <line>47</line>
+          <option name="timeStamp" value="65" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/reports/visualization/median_search_subset_sizes_all_datasets.py</url>
+          <line>48</line>
+          <option name="timeStamp" value="69" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/src/features/selection/optimisers/differentialEvolution.py</url>
+          <line>75</line>
+          <option name="timeStamp" value="99" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/src/features/selection/optimisers/wrapper.py</url>
+          <line>19</line>
+          <option name="timeStamp" value="102" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/reports/visualization/median_search_all_metrics_per_classifier_and_dataset.py</url>
+          <line>54</line>
+          <option name="timeStamp" value="107" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/reports/visualization/median_search_test_val_fitness_comparison_per_classifier_and_dataset.py</url>
+          <line>24</line>
+          <option name="timeStamp" value="111" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/reports/visualization/median_search_val_fitness_comparison_all_classifiers_per_dataset.py</url>
+          <line>54</line>
+          <option name="timeStamp" value="125" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/reports/visualization/median_search_test_fitness_comparison_all_classifiers_per_dataset.py</url>
+          <line>56</line>
+          <option name="timeStamp" value="131" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/reports/visualization/median_search_test_val_fitness_comparison_all_classifiers_per_dataset.py</url>
+          <line>65</line>
+          <option name="timeStamp" value="132" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/reports/visualization/median_search_classifier_test_val_fitness_difference_all_classifiers_per_dataset.py</url>
+          <line>60</line>
+          <option name="timeStamp" value="133" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/src/experiments/fs_study/pipeline.py</url>
+          <line>18</line>
+          <option name="timeStamp" value="135" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/src/features/optimisers/differentialEvolution.py</url>
+          <line>29</line>
+          <option name="timeStamp" value="171" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/src/features/optimisers/differentialEvolution.py</url>
+          <line>58</line>
+          <option name="timeStamp" value="172" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/src/models/classification/classificationScorer.py</url>
+          <line>47</line>
+          <option name="timeStamp" value="173" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/src/features/optimisers/geneticAlgorithmAM.py</url>
+          <line>195</line>
+          <option name="timeStamp" value="176" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/src/features/optimisers/geneticAlgorithmAM.py</url>
+          <line>77</line>
+          <option name="timeStamp" value="179" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/src/features/optimisers/evolutionary_operators/parent_selections.py</url>
+          <line>98</line>
+          <option name="timeStamp" value="188" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/src/features/optimisers/evolutionary_operators/parent_selections.py</url>
+          <line>124</line>
+          <option name="timeStamp" value="189" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/src/features/optimisers/evolutionary_operators/parent_selections.py</url>
+          <line>48</line>
+          <option name="timeStamp" value="192" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/src/features/optimisers/evolutionary_operators/parent_selections.py</url>
+          <line>56</line>
+          <option name="timeStamp" value="193" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/reports/scripts/median_search_all_metrics.py</url>
+          <line>29</line>
+          <option name="timeStamp" value="205" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/src/features/logging/searchLogger.py</url>
+          <line>33</line>
+          <option name="timeStamp" value="221" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/src/features/optimisers/geneticAlgorithmInnovative.py</url>
+          <line>140</line>
+          <option name="timeStamp" value="228" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/reports/scripts/test_archive.py</url>
+          <line>91</line>
+          <option name="timeStamp" value="236" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/reports/scripts/test_archive.py</url>
+          <line>110</line>
+          <option name="timeStamp" value="237" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/reports/scripts/median_search_all_metrics.py</url>
+          <line>40</line>
+          <option name="timeStamp" value="239" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/reports/visualization/median_search_fitness_comparison_all_optimisers_per_classifier_and_dataset.py</url>
+          <line>94</line>
+          <option name="timeStamp" value="242" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/reports/scripts/test_archive.py</url>
+          <line>53</line>
+          <option name="timeStamp" value="251" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/reports/scripts/output_quality_comparison_test_val.py</url>
+          <line>34</line>
+          <option name="timeStamp" value="256" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/reports/visualization/median_search_fitness_comparison_all_optimisers_per_classifier_and_dataset.py</url>
+          <line>47</line>
+          <option name="timeStamp" value="258" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/reports/scripts/archive_combinations.py</url>
+          <line>126</line>
+          <option name="timeStamp" value="268" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+    <watches-manager>
+      <configuration name="PythonConfigurationType">
+        <watch expression="meta._attributes.'Class' (249685792).values" />
+        <watch expression="raw_datasets[0].nominal_features" />
+        <watch expression="fitness_function.X_train" />
+        <watch expression="self" />
+        <watch expression="x" />
+        <watch expression="intersection" />
+      </configuration>
+    </watches-manager>
+  </component>
+</project>

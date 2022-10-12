@@ -1,0 +1,1 @@
+Exploration - looking for format differences, outliers, trends, incorrect, missing, or skewed data

@@ -1,0 +1,1 @@
+Distributed pipeline is generated which assesses the condition of the data, i.e. looks for format differences, outliers, trends, incorrect, missing, or skewed data and certify any anomalies along the way.

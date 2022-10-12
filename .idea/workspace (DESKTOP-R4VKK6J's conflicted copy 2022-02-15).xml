@@ -1,0 +1,605 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AnalysisUIOptions">
+    <option name="SCOPE_TYPE" value="3" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="5ff03cd6-0957-4cee-b5d4-9d81d0ac1751" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="JupyterTrust" id="03bb524c-2ac9-4b41-b132-5cab6167745e" />
+  <component name="ProjectId" id="1iAxhgbmVGd4fbejbGhksemeoIX" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/reports/scripts" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\MDudjak\Dropbox\Doktorski studij\Disertacija\FS-Doprinos\Experiment\reports\scripts" />
+      <recent name="C:\Users\MarioPC\Dropbox\Doktorski studij\Disertacija\FS-Doprinos\Experiment\src\features\optimisers" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\MDudjak\Dropbox\FS study\Experiment\reports\scripts" />
+      <recent name="C:\Users\MDudjak\Dropbox\FS study\Experiment\reports\scripts\fs_study" />
+      <recent name="C:\Users\MDudjak\Dropbox\FS study\Experiment\reports\scripts\empirical_classifier_study" />
+      <recent name="C:\Users\MarioPC\PycharmProjects\DataScienceWorkflow\src\models" />
+      <recent name="C:\Users\MarioPC\PycharmProjects\DataScienceWorkflow\src\models\problems\classification" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.etl">
+    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
+      <module name="DataScienceWorkflow" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="box_plots" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="DataScienceWorkflow" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/reports/visualization" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/reports/visualization/box_plots.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="duration_plots" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="DataScienceWorkflow" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/reports/visualization" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/reports/visualization/duration_plots.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="etl" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="DataScienceWorkflow" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/data/preparation/transformation" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/data/preparation/transformation/etl.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="reduced_vs_full_scatter" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="DataScienceWorkflow" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/reports/visualization" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/reports/visualization/reduced_vs_full_scatter.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="violinplots" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="DataScienceWorkflow" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/reports/visualization" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/reports/visualization/violinplots.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.etl" />
+        <item itemvalue="Python.reduced_vs_full_scatter" />
+        <item itemvalue="Python.duration_plots" />
+        <item itemvalue="Python.box_plots" />
+        <item itemvalue="Python.violinplots" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5ff03cd6-0957-4cee-b5d4-9d81d0ac1751" name="Default Changelist" comment="" />
+      <created>1588233011074</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1588233011074</updated>
+      <workItem from="1603090816280" duration="3004000" />
+      <workItem from="1603094040030" duration="12892000" />
+      <workItem from="1603184294270" duration="10308000" />
+      <workItem from="1603269877679" duration="4215000" />
+      <workItem from="1606738544151" duration="4132000" />
+      <workItem from="1610788462131" duration="22000" />
+      <workItem from="1610788498354" duration="27000" />
+      <workItem from="1612521289073" duration="771000" />
+      <workItem from="1612778468043" duration="6043000" />
+      <workItem from="1612856242409" duration="9994000" />
+      <workItem from="1612943936102" duration="8971000" />
+      <workItem from="1613038862220" duration="5456000" />
+      <workItem from="1613114987823" duration="14376000" />
+      <workItem from="1613374377765" duration="10650000" />
+      <workItem from="1613633343650" duration="717000" />
+      <workItem from="1619073469267" duration="14353000" />
+      <workItem from="1619158874787" duration="11165000" />
+      <workItem from="1619418694981" duration="5892000" />
+      <workItem from="1619426055767" duration="5923000" />
+      <workItem from="1619504689346" duration="19125000" />
+      <workItem from="1619590538838" duration="15281000" />
+      <workItem from="1619679293909" duration="6888000" />
+      <workItem from="1619763724815" duration="31766000" />
+      <workItem from="1620111203210" duration="21731000" />
+      <workItem from="1620195723276" duration="2856000" />
+      <workItem from="1620367975144" duration="32567000" />
+      <workItem from="1623233285481" duration="12600000" />
+      <workItem from="1623670694878" duration="4508000" />
+      <workItem from="1630329897189" duration="961000" />
+      <workItem from="1633352889421" duration="609000" />
+      <workItem from="1633611110083" duration="1770000" />
+      <workItem from="1634107441424" duration="7028000" />
+      <workItem from="1634192872015" duration="3621000" />
+      <workItem from="1634197271953" duration="150000" />
+      <workItem from="1634197459055" duration="1555000" />
+      <workItem from="1634206705760" duration="1155000" />
+      <workItem from="1634626452030" duration="383000" />
+      <workItem from="1634627004292" duration="8248000" />
+      <workItem from="1634733243319" duration="627000" />
+      <workItem from="1634800301022" duration="8292000" />
+      <workItem from="1635165294777" duration="966000" />
+      <workItem from="1635251408238" duration="826000" />
+      <workItem from="1635317039097" duration="5004000" />
+      <workItem from="1635845549910" duration="3166000" />
+      <workItem from="1636119966126" duration="4480000" />
+      <workItem from="1636366596411" duration="768000" />
+      <workItem from="1636633095741" duration="598000" />
+      <workItem from="1636984996312" duration="124000" />
+      <workItem from="1637140638348" duration="1381000" />
+      <workItem from="1637330970156" duration="1017000" />
+      <workItem from="1639557348521" duration="636000" />
+      <workItem from="1639561788306" duration="624000" />
+      <workItem from="1640090223012" duration="607000" />
+      <workItem from="1640158132729" duration="1266000" />
+      <workItem from="1640255514198" duration="1626000" />
+      <workItem from="1641284694366" duration="852000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/src/models/classification/classifiers/perceptron.py</url>
+          <line>61</line>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/reports/scripts/empirical_classifier_study/tuning_results_ranking.py</url>
+          <line>15</line>
+          <option name="timeStamp" value="32" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/src/features/selection/optimisers/geneticAlgorithm.py</url>
+          <line>118</line>
+          <option name="timeStamp" value="56" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/reports/visualization/median_search_classifier_difference_all_datasets.py</url>
+          <line>47</line>
+          <option name="timeStamp" value="65" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/reports/visualization/median_search_subset_sizes_all_datasets.py</url>
+          <line>48</line>
+          <option name="timeStamp" value="69" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/src/features/selection/optimisers/differentialEvolution.py</url>
+          <line>75</line>
+          <option name="timeStamp" value="99" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/src/features/selection/optimisers/wrapper.py</url>
+          <line>19</line>
+          <option name="timeStamp" value="102" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/reports/visualization/median_search_all_metrics_per_classifier_and_dataset.py</url>
+          <line>54</line>
+          <option name="timeStamp" value="107" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/reports/visualization/median_search_test_val_fitness_comparison_per_classifier_and_dataset.py</url>
+          <line>24</line>
+          <option name="timeStamp" value="111" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/reports/visualization/median_search_val_fitness_comparison_all_classifiers_per_dataset.py</url>
+          <line>54</line>
+          <option name="timeStamp" value="125" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/reports/visualization/median_search_test_fitness_comparison_all_classifiers_per_dataset.py</url>
+          <line>56</line>
+          <option name="timeStamp" value="131" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/reports/visualization/median_search_test_val_fitness_comparison_all_classifiers_per_dataset.py</url>
+          <line>65</line>
+          <option name="timeStamp" value="132" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/reports/visualization/median_search_classifier_test_val_fitness_difference_all_classifiers_per_dataset.py</url>
+          <line>60</line>
+          <option name="timeStamp" value="133" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/src/experiments/fs_study/pipeline.py</url>
+          <line>18</line>
+          <option name="timeStamp" value="135" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/src/models/classification/classificationScorer.py</url>
+          <line>59</line>
+          <option name="timeStamp" value="173" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/src/features/optimisers/geneticAlgorithmAM.py</url>
+          <line>195</line>
+          <option name="timeStamp" value="176" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/src/features/optimisers/geneticAlgorithmAM.py</url>
+          <line>77</line>
+          <option name="timeStamp" value="179" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/src/features/optimisers/evolutionary_operators/parent_selections.py</url>
+          <line>124</line>
+          <option name="timeStamp" value="189" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/src/features/optimisers/evolutionary_operators/parent_selections.py</url>
+          <line>48</line>
+          <option name="timeStamp" value="192" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/src/features/optimisers/evolutionary_operators/parent_selections.py</url>
+          <line>56</line>
+          <option name="timeStamp" value="193" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/reports/scripts/median_search_all_metrics.py</url>
+          <line>29</line>
+          <option name="timeStamp" value="205" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/src/features/logging/searchLogger.py</url>
+          <line>33</line>
+          <option name="timeStamp" value="221" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/src/features/optimisers/geneticAlgorithmInnovative.py</url>
+          <line>140</line>
+          <option name="timeStamp" value="228" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/reports/scripts/median_search_all_metrics.py</url>
+          <line>40</line>
+          <option name="timeStamp" value="239" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/reports/visualization/median_search_fitness_comparison_all_optimisers_per_classifier_and_dataset.py</url>
+          <line>94</line>
+          <option name="timeStamp" value="242" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/reports/scripts/output_quality_comparison_test_val.py</url>
+          <line>34</line>
+          <option name="timeStamp" value="256" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/reports/visualization/median_search_fitness_comparison_all_optimisers_per_classifier_and_dataset.py</url>
+          <line>47</line>
+          <option name="timeStamp" value="258" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/reports/scripts/average_test_results.py</url>
+          <line>71</line>
+          <option name="timeStamp" value="277" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/reports/scripts/average_test_results.py</url>
+          <line>64</line>
+          <option name="timeStamp" value="278" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/src/features/optimisers/particleSwarmOptimisation.py</url>
+          <line>332</line>
+          <option name="timeStamp" value="290" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/src/features/optimisers/geneticAlgorithm.py</url>
+          <line>402</line>
+          <option name="timeStamp" value="316" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/reports/scripts/archive_combinations_2.py</url>
+          <line>591</line>
+          <option name="timeStamp" value="362" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/reports/scripts/archive_combinations_2.py</url>
+          <line>370</line>
+          <option name="timeStamp" value="364" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/reports/scripts/archive_combinations_2.py</url>
+          <line>114</line>
+          <option name="timeStamp" value="366" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/reports/scripts/archive_combinations_2.py</url>
+          <line>287</line>
+          <option name="timeStamp" value="369" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/reports/scripts/archive_combinations_2.py</url>
+          <line>269</line>
+          <option name="timeStamp" value="372" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/reports/scripts/archive_combinations_2.py</url>
+          <line>268</line>
+          <option name="timeStamp" value="373" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/reports/scripts/archive_combinations_best_worst.py</url>
+          <line>336</line>
+          <option name="timeStamp" value="475" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/reports/scripts/archive_combinations_best_worst.py</url>
+          <line>243</line>
+          <option name="timeStamp" value="478" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/reports/scripts/archive_combinations_best_worst.py</url>
+          <line>242</line>
+          <option name="timeStamp" value="480" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/src/features/logging/loggers.py</url>
+          <line>26</line>
+          <option name="timeStamp" value="493" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/reports/scripts/test_archive.py</url>
+          <line>14</line>
+          <option name="timeStamp" value="499" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/reports/scripts/test_archive.py</url>
+          <line>47</line>
+          <option name="timeStamp" value="500" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/reports/scripts/archive_combinations.py</url>
+          <line>220</line>
+          <option name="timeStamp" value="514" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/reports/scripts/archive_combinations.py</url>
+          <line>511</line>
+          <option name="timeStamp" value="515" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/reports/scripts/archive_combinations.py</url>
+          <line>523</line>
+          <option name="timeStamp" value="516" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/reports/scripts/wilcoxon_pairwise_datasets.py</url>
+          <line>12</line>
+          <option name="timeStamp" value="518" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/reports/scripts/full_quality.py</url>
+          <line>18</line>
+          <option name="timeStamp" value="526" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/reports/scripts/duration.py</url>
+          <line>33</line>
+          <option name="timeStamp" value="528" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/reports/visualization/duration_plots.py</url>
+          <line>130</line>
+          <option name="timeStamp" value="535" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/reports/visualization/duration_plots.py</url>
+          <line>26</line>
+          <option name="timeStamp" value="536" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/reports/visualization/scatter_plots.py</url>
+          <line>131</line>
+          <option name="timeStamp" value="544" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/reports/visualization/scatter_plots.py</url>
+          <line>93</line>
+          <option name="timeStamp" value="545" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/reports/visualization/scatter_plots.py</url>
+          <line>54</line>
+          <option name="timeStamp" value="546" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/reports/visualization/reduced_vs_full_scatter.py</url>
+          <line>95</line>
+          <option name="timeStamp" value="553" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/reports/visualization/reduced_vs_full_scatter.py</url>
+          <line>70</line>
+          <option name="timeStamp" value="562" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/reports/visualization/violinplots.py</url>
+          <line>61</line>
+          <option name="timeStamp" value="563" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/reports/visualization/box_plots.py</url>
+          <line>129</line>
+          <option name="timeStamp" value="569" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/src/data/preparation/transformation/etl.py</url>
+          <line>37</line>
+          <option name="timeStamp" value="570" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/reports/visualization/duration_plots.py</url>
+          <option name="timeStamp" value="571" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/reports/visualization/reduced_vs_full_scatter.py</url>
+          <line>45</line>
+          <option name="timeStamp" value="572" />
+        </line-breakpoint>
+      </breakpoints>
+      <default-breakpoints>
+        <breakpoint type="python-exception">
+          <properties notifyOnTerminate="true" exception="BaseException">
+            <option name="notifyOnTerminate" value="true" />
+          </properties>
+        </breakpoint>
+      </default-breakpoints>
+    </breakpoint-manager>
+    <watches-manager>
+      <configuration name="PythonConfigurationType">
+        <watch expression="meta._attributes.'Class' (249685792).values" />
+        <watch expression="raw_datasets[0].nominal_features" />
+        <watch expression="fitness_function.X_train" />
+        <watch expression="self" />
+        <watch expression="x" />
+        <watch expression="intersection" />
+        <watch expression="reduced_population" />
+        <watch expression="scores[0]" />
+        <watch expression="scores[4]" />
+        <watch expression="population" />
+        <watch expression="particle_velocities" />
+        <watch expression="anhd_stability_results" />
+        <watch expression="search_results" />
+        <watch expression="population_clustering_index[49]" />
+        <watch expression="population_fitness" />
+        <watch expression="population_fitness" />
+        <watch expression="matrix" />
+      </configuration>
+    </watches-manager>
+  </component>
+</project>
